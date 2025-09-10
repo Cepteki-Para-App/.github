@@ -1,12 +1,13 @@
-## Hi there 👋
 
-<!--
+<img width="991" height="889" alt="icon" src="https://github.com/user-attachments/assets/63a4063f-af51-4714-b39e-b5a488d0f450" />
 
-**Here are some ideas to get you started:**
+Merhaba! **Cepteki Para App** organizasyonuna hoş geldiniz. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Bu uygulama, altın, döviz, kripto birikmlerinin toplam değerini anlık olarak takip etmeye, kur takibi yapmana ve kazancını, alış/satış işlemlerini kolayca kontrol etmene yardımcı olur.
+
+
+## 📞 İletişim 
+
+Projelerimiz hakkında sorularınız için issue açabilir veya bizimle iletişime geçebilirsiniz.
+
+📩ceptekiparaapp@gmail.com
